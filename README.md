@@ -1,0 +1,2 @@
+# CorrectingWrongSpellings
+Correcting wrong spellings
